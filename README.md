@@ -1,6 +1,6 @@
 # 4Bar Simulation Modeling
 
-##4Bar Company
+## 4Bar Company
 
 4Bar Company is at the forefront of innovation in the
 music and entertainment industry, providing a unique platform
